@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Sourav
 
-<!--
-**souravmanu46-afk/souravmanu46-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+🔐 Cybersecurity Enthusiast  
+💻 Linux | Ethical Hacking | Network Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a **Bachelor of Computer Applications (BCA) graduate** with a strong interest in **Cybersecurity and Ethical Hacking**.  
+I enjoy learning about **Linux systems, network security, penetration testing, and vulnerability analysis**.
+
+Currently improving my skills through **practice labs, wargames, and cybersecurity research**.
+
+---
+
+## 🛠️ Skills
+
+- Linux (Kali Linux)
+- Networking Fundamentals
+- Cybersecurity Basics
+- Ethical Hacking
+- Vulnerability Analysis
+- Bash / Terminal
+
+---
+
+## 📚 Currently Learning
+
+- Penetration Testing
+- Web Security
+- Network Security
+- OverTheWire Wargames
+- Capture The Flag (CTF)
+
+---
+
+## 💻 Tools I Use
+
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ *Always learning. Always exploring cybersecurity.*
