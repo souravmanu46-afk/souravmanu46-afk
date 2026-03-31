@@ -54,7 +54,7 @@ Currently improving my skills through **practice labs, wargames, and cybersecuri
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/souravmanu46-afk
 
 ---
 
